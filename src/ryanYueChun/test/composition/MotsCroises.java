@@ -13,6 +13,7 @@ public class MotsCroises {
 		definitionVerticale = new GilleNoircissable(hauteur, largeur);
 	}
 	
+	// Est une usine à gaz ??
 	private class GilleNoircissable {
 		public Grille grille;
 		
